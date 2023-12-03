@@ -30,11 +30,11 @@ Competition participants should predict the exact amount of rainfall for the nex
 
 ### Weather4cast 2023 dataset
 
-We provide data from 10 Eureopean regions selected based on their preciptation characteristics for 2019, 2020 and 2021. In total there then are 7 regions with full training data in both 2019 and 2020. Those regions then be used for training, while three additional regions provide a spatial transfer learning challenge in years 2019 and 2020. For all ten regions, the year 2021 provides a temporal transfer learning challenge.
+We provide data from 10 European regions selected based on their preciptation characteristics for 2019, 2020 and 2021. In total there then are 7 regions with full training data in both 2019 and 2020. Those regions then be used for training, while three additional regions provide a spatial transfer learning challenge in years 2019 and 2020. For all ten regions, the year 2021 provides a temporal transfer learning challenge.
 
 ### Core Challege dataset
 
-For the Core Challege we provide data from 7 Eureopean regions selected based on their preciptation characteristics for two years covering(`boxi_0015`, `boxi_0034`, `boxi_0076`, `roxi_0004`, `roxi_0005`, `roxi_0006`, and `roxi_0007`). This data covers the time February to December 2019 and January to December 2020.
+For the Core Challege we provide data from 7 European regions selected based on their preciptation characteristics for two years covering(`boxi_0015`, `boxi_0034`, `boxi_0076`, `roxi_0004`, `roxi_0005`, `roxi_0006`, and `roxi_0007`). This data covers the time February to December 2019 and January to December 2020.
 
 The task is to predict exact amount of rain events 4 hours into the future from a 1 hour sequence of satellite images. Rain rates computed from OPERA ground-radar reflectivities provide a ground truth.
 
